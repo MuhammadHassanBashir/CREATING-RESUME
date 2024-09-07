@@ -6,6 +6,7 @@ Steps:
 
 .TEX FILE For DOCUMENT Setting
 ------------------------------
+
     \documentclass{resume} % Use the custom resume.cls style
     \usepackage{multicol}
     \usepackage{enumitem}
@@ -35,7 +36,7 @@ Steps:
     \begin{rSection}{PROFESSIONAL EXPERIENCE}
     
     \textbf{DevOps Engineer - Full Time} \hfill Dec 2023 - Present\\
-    Alpha9 Solutions · Remote \hfill \textit{Lahore, Pakistan}
+    Alpha9 Solutions · Remote \hfill Lahore, Pakistan
      \begin{itemize}
         \itemsep -3pt {} 
         \item Successfully delivered a \textbf{GCP Marketplace} project by deploying and configuring \textbf{Kubernetes base applications}. Utilized \textbf{Helm} as the package manager to streamline the deployment of ready-to-use \textbf{software services} on the client’s platform, ensuring \textbf{seamless integration} with GCP Marketplace standards and optimizing for performance and scalability.
@@ -49,7 +50,7 @@ Steps:
      \end{itemize}
     
     \textbf{IT Infrastructure and DevOps Engineer - Full Time} \hfill Oct 2021 - Dec 2023\\
-    Cheetay Logistics · On-Site \hfill \textit{Lahore, Pakistan}
+    Cheetay Logistics · On-Site \hfill Lahore, Pakistan
      \begin{itemize}
         \itemsep -3pt {} 
         \item Responsible for overseeing both \textbf{local and remote network infrastructure}, I excel in installing, configuring, and troubleshooting a range of network devices, \textbf{including routers, switches, and firewalls}. My role involves vigilant monitoring of \textbf{network performance} and \textbf{security}, swiftly identifying and resolving issues. I contribute to \textbf{designing} and \textbf{implementing network solutions} tailored to meet business requirements..
@@ -62,7 +63,7 @@ Steps:
      \end{itemize}
     
     \textbf{Network Support Engineer -  Full Time} \hfill Nov 2019 - Sep 2021 \\
-    Optixfiber · On-Site \hfill \textit{Lahore, Pakistan}
+    Optixfiber · On-Site \hfill Lahore, Pakistan
      \begin{itemize}
         \itemsep -3pt {} 
         \item Delivered \textbf{Level-2 technical support} for the \textbf{FTTx Project}, assisting both \textbf{Home and Enterprise} Business Units..
@@ -74,7 +75,7 @@ Steps:
      \end{itemize}
     
     \textbf{Network Operations Center Engineer - Internship} \hfill Sep 2019 - Oct 2019\\
-    WorldCall Telecom Limited · On-Site \hfill \textit{Lahore, Pakistan}
+    WorldCall Telecom Limited · On-Site \hfill Lahore, Pakistan
      \begin{itemize}
         \itemsep -3pt {} 
         \item Monitored and maintained \textbf{network performance}, ensuring uptime and quick resolution of \textbf{network issues}.
@@ -96,7 +97,7 @@ Steps:
     \textbf{\fontsize{12pt}{13.6pt}\selectfont BACHELORS IN ELECTRICAL ENGINEERING  \textbar\ COMSATS University Islamabad, Lahore Campus} \hfill Aug 2015 - Sep 2019\\
     
     % Degree and CGPA, normal font size
-    \textbf{B.S. in Electrical Engineering(Telecommunications)  \textbar\ Senior Year Student}  \hfill {\bf June 2018}\\
+    \textbf{B.S. in Electrical Engineering(Telecommunications)  \textbar\ Senior Year Student}  \hfill June 2018\\
     {\bf Relevant Coursework:} Digital Communication Systems, \textbf{Data Communication and Computer Networks}, Telecommunication Systems Engineering, \textbf{Optical Fiber Communications, Broadband Technologies}, Antenna and Radio Wave Propagation, Wireless Communication Systems, Network Programming
     
     \end{rSection}
@@ -142,11 +143,11 @@ Steps:
     
     \begin{rSection}{CERTIFICATIONS AND TRAININGS} 
     \begin{itemize}
-        \item AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE \hfill {\bf May 2021}
-        \item RHEL, RHCSA , LINUX FOUNDATION
+        \item AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE \hfill May 2021
+        \item RHEL, RHCSA , LINUX FOUNDATION  
         \item CKA,  CKAD
         \item AWS,  GCP
-        \item TERRAFORM \hfill {\bf Jan 2021}
+        \item TERRAFORM 
     \end{itemize}
     \end{rSection}
     
@@ -164,6 +165,8 @@ Steps:
     \end{itemize}
     \end{rSection}
     \end{document}
+
+
 
 
 
