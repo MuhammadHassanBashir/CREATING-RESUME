@@ -61,8 +61,8 @@ Steps:
         
      \end{itemize}
     
-    \textbf{Network Support Engineer -  Full-Time} \hfill Nov 2019 - Sep 2021 · On-Site\\
-    Optixfiber - On-Site \hfill \textit{Lahore, Pakistan}
+    \textbf{Network Support Engineer -  Full Time} \hfill Nov 2019 - Sep 2021 \\
+    Optixfiber · On-Site \hfill \textit{Lahore, Pakistan}
      \begin{itemize}
         \itemsep -3pt {} 
         \item Delivered \textbf{Level-2 technical support} for the \textbf{FTTx Project}, assisting both \textbf{Home and Enterprise} Business Units..
