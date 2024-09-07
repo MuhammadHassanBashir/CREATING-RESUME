@@ -1,5 +1,9 @@
 # CREATING-RESUME
 
+Steps:
+    - Go to **overleaf.com** and create project name: Hassan
+    - Then create 2 file having .tex and .cls extension file and paste below code accordingly. (files like main.tex and resume.cls)
+
 .TEX FILE For DOCUMENT Setting
 ------------------------------
     \documentclass{resume} % Use the custom resume.cls style
